@@ -3,6 +3,7 @@
 async site built with Django (SUBUX)
 
 License: MIT
+
 OS: Ubuntu 22.04
 
 ## Settings
